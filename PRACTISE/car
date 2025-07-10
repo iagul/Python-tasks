@@ -1,0 +1,6 @@
+# class Car:
+#     def __init__(self, Model, Year, Color, ForSale):
+#         self.Model = Model
+#         self.Year = Year
+#         self.Color = Color
+#         self.ForSale = ForSale
